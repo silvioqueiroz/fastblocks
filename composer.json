@@ -1,0 +1,15 @@
+{
+	"name" : "Fast Building Blocks",
+	"type": "library",
+	"description" : "",
+	"homepage": "https://github.com/silvioqueiroz/fastblocks",
+	"authors": [
+		{
+			"name" : "Silvio Queiroz",
+			"email": "silvio.queiroz@gmail.com"
+		}
+	],
+	"require": {
+		"php" : ">=5.2.8"
+	}
+}
